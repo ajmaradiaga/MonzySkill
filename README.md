@@ -35,6 +35,7 @@ Roughly, this is what you would need to do:
   3. Create an Alexa Skill
     - In the interaction model of the Alexa Skill - Copy and the contents of intent_schema.json and the sample_utterances.txt
     - In configuration of the Alexa Skill - Enter the Monzo Client App details
+    - Add account linking details - see screenshot (screenshots/AccountLinking_Example.png)
   4. Associate the Lambda function previously created
 
 Enjoy!
