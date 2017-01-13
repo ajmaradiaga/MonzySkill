@@ -1,0 +1,16 @@
+GetCurrentBalance what is my balance
+GetCurrentBalance balance
+GetCurrentBalance my balance
+GetCurrentBalance current balance
+GetCurrentBalance my current balance
+ListTransactions transactions for {Date}
+ListTransactions {Date} transactions
+ListTransactions transactions
+ListTransactions my transactions
+ListTransactions my last transactions
+Totals totals {Date}
+Totals total {Date}
+Totals totals for {Date}
+Totals total spent {Date}
+Totals total spent
+Totals totals
