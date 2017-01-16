@@ -358,7 +358,7 @@ def get_totals(intent, session):
         elif curr == "GBP":
             speech_output = speech_output + "0 GBP. \n"
 
-    if topup != 0 and transfer != 0:
+    if topup != 0 or transfer != 0:
         speech_output = speech_output + "For a Grand Total of: " + str(grand_total / 100) + " GBP."
     reprompt_text = None
 
