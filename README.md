@@ -38,4 +38,6 @@ Roughly, this is what you would need to do:
     - Add account linking details - see screenshot (screenshots/AccountLinking_Example.png)
   4. Associate the Lambda function previously created
 
+If you don't want to go through the hassle of deploying the code and creating a Skill, I can add you as a tester of the skill. Just send me your email address to (antonio @ itxo . io), I'll grant you access to it and you will be able to install the skill on your Echo.
+
 Enjoy!
